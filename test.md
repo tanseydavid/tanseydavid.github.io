@@ -9,13 +9,13 @@ This is a demo of all styled elements in Jekyll Now.
 
 This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
 
-## Header 2 (H1 is reserved for post titles)##
+## Superior Drummer 2.0 - ToonTrack ##
 
 ### Header 3
 
 #### Header 4
  
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
+[REVIEW - Sound on Sound](https://www.soundonsound.com/reviews/toontrack-superior-drummer-20). A big ass literal link <http://github.com/barryclark/jekyll-now/>
   
 An image, located within /images
 
