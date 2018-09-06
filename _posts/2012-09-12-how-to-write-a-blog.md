@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "How to Write a Blog"
+categories: [blog, howto]
+tags: [writing, testing]
 ---
 
 How to Write a Blog
