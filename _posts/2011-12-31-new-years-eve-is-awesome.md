@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "New's Year Eve is Awesome"
+categories: [blog, random]
+tags: [holiday, testing]
 ---
 
 New's Year Eve is Awesome
