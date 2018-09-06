@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New's Year Eve is Awesome"
+title:  "How to Write a Blog"
 ---
 
 How to Write a Blog
