@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "New's Year Eve is Awesome"
+---
+
 How to Write a Blog
 ===================
 
